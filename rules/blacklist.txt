@@ -1,9 +1,9 @@
 # 私域直播黑名单规则
 # 自动匹配以下域名及其子域名
-- 'qianguolive.cn'
-- 'xiaoeknow.com'
-- 'vzan.com'
-- 'xiaoe-live.com'
-- 'cdfmcgshop.com'
-- 'jzrwshop.com'
-- 'vlebo.cn'
+qianguolive.cn
+xiaoeknow.com
+vzan.com
+xiaoe-live.com
+cdfmcgshop.com
+jzrwshop.com
+vlebo.cn
