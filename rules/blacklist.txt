@@ -1,8 +1,0 @@
-payload:
-  - '+.qianguolive.cn'
-  - '+.xiaoeknow.com'
-  - '+.vzan.com'
-  - '+.xiaoe-live.com'
-  - '+.cdfmcgshop.com'
-  - '+.jzrwshop.com'
-  - '+.vlebo.cn'
